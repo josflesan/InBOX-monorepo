@@ -1,0 +1,12 @@
+[submodule "InBOX-app"]
+	path = InBOX-app
+	url = https://github.com/josflesan/InBOX-app
+[submodule "InBOX-REST"]
+	path = InBOX-REST
+	url = https://github.com/josflesan/InBOX-REST
+[submodule "InBOX-hardware"]
+	path = InBOX-hardware
+	url = https://github.com/josflesan/InBOX-hardware
+[submodule "InBOX-courier-service"]
+	path = InBOX-courier-service
+	url = https://github.com/josflesan/InBOX-courier-service
